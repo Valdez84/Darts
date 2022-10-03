@@ -1,0 +1,69 @@
+*{
+	box-sizing:border-box;
+	}
+	
+body {
+	background-color:#E7D9B6;
+	color:#CC0000;
+	border: 3px red solid;
+    max-width: 720px;
+    margin: auto;
+	padding:10px;
+	border-radius:5px;
+	box-shadow: 3px 3px 3px #432;
+}
+h1{
+	text-align:center;
+	text-shadow:1px 1px #432;
+}
+h3 {
+	text-shadow:1px 1px #432;
+}
+h2{
+	font-size:1em;
+}
+
+
+#lablec {
+	text-align:center;
+	background-color:#999966;
+	font-style:#CC0000;
+	border: 3px black solid;
+	margin: 20px;
+}
+img {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+}
+#menu {
+	text-align:center;
+	background-color:#999966;
+	border: 3px black solid;
+	margin: 20px;
+	
+	
+}
+#tor_szov h2{
+	font-size:1em;
+}
+#kepek {
+	max-width:50%;
+	display: flex;
+    }
+#eszkoz_lis h4{
+	font-size:15px;
+}
+
+@media screen and(min-width: 600px) {
+  
+}
+a{
+	color: red;
+	
+}
+a:hover {
+	color:black;
+	background-color:white;
+}
+
